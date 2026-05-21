@@ -1,0 +1,12 @@
+3.5 hours moring class
+1.5 hours writing code
+1 hours revision concept kubernetes & Helm concept
+2 hours revise videos for practice
+
+
+
+Tommorrow
+
+We have learn ArgoCD
+practice how we make yaml file through helm.
+

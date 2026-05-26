@@ -1,0 +1,4 @@
+4 hours morning class
+1.5 hours writing code
+4 hours revision on CI/CD
+2 hours learning CI/CD concepts
